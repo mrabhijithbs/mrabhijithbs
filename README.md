@@ -15,25 +15,6 @@ I am a self-taught **Python Full-Stack Developer** dedicated to mastering the ar
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Core Technologies**
-- **Languages:** Python (Primary), SQL, HTML5, CSS3, JavaScript
-- **Frameworks:** Django, FastAPI
-- **Database:** PostgreSQL, SQLite
-
-**Dev Tools**
-- **Version Control:** Git & GitHub
-- **API Testing:** Postman
-- **Environment:** VS Code, Linux
-
----
-
-### 📊 GitHub Stats
-![Abhijith's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent)
-
----
 
 ### 🤝 Connect with Me
 I'm always open to collaborating on interesting projects or discussing tech.
